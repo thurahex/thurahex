@@ -4,6 +4,7 @@
 body{
     background-color: rgb(255, 255, 255);
 }
+
 .container{
     background-color: rgb(255, 255, 255);
     padding: px 10px;
@@ -102,19 +103,21 @@ body{
 }
 .footer{
     display: flex;
-    justify-content: space-around;
+
     background-color: rgb(6, 6, 26);
     padding: 10px;
     color: white;
     flex-wrap: wrap;
     font-size: 13px;
 }
+.footer-head{
+    text-align: center;
+}
 .footer-link{
     width: 100px;
 }
 .footer-tap{
-    display: flex;
-    flex-direction: column;
+    
     
 align-items: center;
 }
