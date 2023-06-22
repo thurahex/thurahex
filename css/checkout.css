@@ -1,0 +1,85 @@
+h2{
+    margin-top: -120px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    
+    color: rgb(93, 128, 12);
+    text-shadow: 2px 7px 9px rgb(129, 126, 126);;
+    
+}
+.check-card{
+    width: 500px;
+    background-color: rgb(143, 182, 169);
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    box-shadow: 2px 7px 9px rgb(129, 126, 126);
+
+}
+.input-number{
+    width: 400px;
+    padding: 5px 20px;
+    border: none;
+    border-top-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    
+}
+.hnit{
+    padding: 10px;
+    font-size: 13px;
+    opacity: 50%;
+}
+.submitbtn{
+    padding: 5px 15px;
+    border: none;
+    border-top-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    background-color: aquamarine;
+  
+
+}
+.resultCss{
+    background-color:blanchedalmond;
+    color: green;
+    width: 100%;
+    margin-top: 20px;
+    
+}
+@media screen and (max-width:600px){
+    .check-card{
+        width: 350px;
+        background-color: rgb(143, 182, 169);
+        padding: 10px;
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+        box-shadow: 2px 7px 9px rgb(129, 126, 126);
+    
+    }
+    .input-number{
+        width: 100%;
+        padding: 5px 20px;
+        border: none;
+        border-top-left-radius:20px ;
+        border-bottom-right-radius:20px ;
+        margin-bottom: 10px;
+        
+    }
+    .hnit{
+        padding: 10px;
+        font-size: 13px;
+        opacity: 50%;
+    }
+    .submitbtn{
+        display: block;
+        width: 100%;
+        padding: 5px 15px;
+        border: none;
+        border-top-left-radius:20px ;
+        border-bottom-right-radius:20px ;
+        background-color: aquamarine;
+      
+    
+    }
+    
+}
