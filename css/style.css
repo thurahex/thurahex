@@ -135,7 +135,8 @@ h6{
   margin: auto;
 }
 .content-img {
-  width: 300px;
+  
+  
   border-radius: 4px;
 }
 .content-img-caption {
@@ -222,7 +223,8 @@ h6{
     margin: auto;
   }
   .content-img {
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 4px;
   }
   .content-img-caption {
@@ -264,13 +266,14 @@ h6{
     padding-right: 12px;
   }
   .content-img-card {
-    width: 200px;
+    width: auto;
     display: flex;
     flex-direction: column;
     margin: auto;
   }
   .content-img {
     height: 200px;
+    width: 200px;
     border-radius: 4px;
   }
   .content-img-caption {
