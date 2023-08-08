@@ -1,6 +1,9 @@
-# Hi there 👋, thura
+# Hi there 👋, 
 #preview
-- [thurahex](https://strong-brioche-4edcc4.netlify.app/)
+- i am [thurahex](https://strong-brioche-4edcc4.netlify.app/)
+- Crazy JS developer (still learning level......)
+- Say Hi to me, and i gonna give you a big love , Yaya,
+- thurahex@gmail.com
 
 
 
