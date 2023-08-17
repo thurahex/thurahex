@@ -1,6 +1,6 @@
 # Hi there 👋, 
 - i am [thurahex](https://strong-brioche-4edcc4.netlify.app/) (mini page)
-- Crazy JS developer (still learning level......)
+- Crazy JS developer 
 - Say Hi to me, and i gonna give you a big love , Yaya,
 - thurahex@gmail.com
 
