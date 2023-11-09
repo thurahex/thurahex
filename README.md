@@ -1,5 +1,5 @@
 # Hi there 👋, 
-- i am [thurahex](https://strong-brioche-4edcc4.netlify.app/) (mini page)
+- i am [thurahex](https://strong-brioche-4edcc4.netlify.app/),specialized frontend developer
 - Crazy JS developer ReactJS
 - Say Hi to me, and i gonna give you a big love , Yaya,
 - thurahex@gmail.com
